@@ -1,0 +1,12 @@
+public class User
+ 
+long accountld;
+final int accountld;
+String city="";
+float balance;
+byte [] picture = new byte [2048];
+static int picture ;
+static final String role="Client";
+accountId=100500L
+
+}
